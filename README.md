@@ -9,6 +9,7 @@ Developed with Unreal Engine 4
 更换了摇杆UI。<br>
 
 演示视频及apk包如下<br>
-链接：https://pan.baidu.com/s/1WCF0jfxYsqkqyZ7QwnG8cQ?pwd=4c01 
-提取码：4c01 
+链接：https://pan.baidu.com/s/1rY33HOgODyZuHukVWDqP0A?pwd=ps0c 
+提取码：ps0c 
+
 
